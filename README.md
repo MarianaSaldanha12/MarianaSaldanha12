@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarianaSaldanha12
 - 👀 I’m interested in programming focused on data science
 - 🌱 I’m currently learning java, python and database
-- 💞️ I’m looking to collaborate on functional codes
+- 💞️ I’m looking to collaborate on functional codes and learn
 - 📫 How to reach me via telephone:+55(11)957602740 | Email: mrnsldnh@gmail.com | Linkedin: www.linkedin.com/in/mariana-saldanha-9a704119b
 
 <!---
